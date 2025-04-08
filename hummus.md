@@ -1,9 +1,10 @@
 # Hummus
 
-##ingredients
-*chickpeas
-*lemon
-*olive oil
-*salt
+## ingredients
+* chickpeas
+* lemon
+* olive oil
+* salt
+* Little bit sugar
 
-##instructions
+## instructions
